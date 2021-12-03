@@ -8,3 +8,5 @@ pindakaas
 pepernoten
 wcpapier
 brood
+kaas
+boter
